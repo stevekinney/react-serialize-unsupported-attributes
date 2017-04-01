@@ -8,7 +8,8 @@
     "build": "babel src/index.js --out-file dist/index.js",
     "prepublish": "npm run build"
   },
-  "author": "Steve Kinney",
+  "author": "Steve Kinney <hello@stevekinney.net> (http://stevekinney.net)",
+  "repository": "https://github.com/stevekinney/react-serialize-unsupported-attributes",
   "license": "MIT",
   "dependencies": {
     "react": "^15.4.2",
