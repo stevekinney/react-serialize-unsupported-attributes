@@ -1,6 +1,6 @@
 {
   "name": "react-serialize-unsupported-attributes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Render markup with deprecated attributes.",
   "main": "dist/index.js",
   "scripts": {
